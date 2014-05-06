@@ -308,6 +308,7 @@ h5, h6 {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/owenhindley\/Documents\/workspace\/projects\/OWE_001_ChristianDee\/scss\/sections\/_posts\.scss}line{font-family:\0000373}}
 #postContent .post .postContent .showTitle {
+  margin-bottom: 1em;
   display: block;
 }
 
