@@ -3,6 +3,8 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<base href="<?php bloginfo('template_directory'); ?>/">
 
+	<meta name="viewport" content="width=800" />
+
 	<meta property="og:title" content="Christian Dee" />
 	<meta property="og:type" content="musician" />
 	<meta property="og:url" content="http://www.christiandee.com" />
